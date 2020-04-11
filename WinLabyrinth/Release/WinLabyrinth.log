@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\zen\documents\visual studio 2017\projects\winlabyrinth\main.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\zen\documents\visual studio 2017\projects\winlabyrinth\main.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  Создание кода завершено
+  1 of 175 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  WinLabyrinth.vcxproj -> C:\Users\Zen\Documents\Visual Studio 2017\Projects\WinLabyrinth\Release\WinLabyrinth.exe

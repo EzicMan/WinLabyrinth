@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\zen\documents\visual studio 2017\projects\winlabyrinth\main.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\zen\documents\visual studio 2017\projects\winlabyrinth\main.cpp(68): warning C4018: <: несоответствие типов со знаком и без знака
+  WinLabyrinth.vcxproj -> C:\Users\Zen\Documents\Visual Studio 2017\Projects\WinLabyrinth\Debug\WinLabyrinth.exe
